@@ -1,5 +1,5 @@
-Taller Clase - Parejas
+#Taller Clase - Parejas
 
-To Do List
+##To Do List
 
-Created by Cristian Chavez y Valeria Jimenez
+#Created by Cristian Chavez y Valeria Jimenez
